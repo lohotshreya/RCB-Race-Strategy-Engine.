@@ -13,4 +13,5 @@ Backtesting Engine: Custom Python scripts to test 2025 match-decisions against "
 
 Visualization: Power BI (Dark Luxury Theme) utilizing advanced DAX for real-time Win Probability swings.
 
-## 📊 Dashboard Features: The Race Map: A dual-axis visual tracking Win Prob % vs. Leverage Index.The Pit Window: A gauge visual indicating the "Green Zone" for an Impact Substitution.Matchup Matrix: A heat map of RCB’s 2026 squad vs. the specific bowling archetypes of the 2026 opposition (e.g., Left-arm Wrist Spin).
+## 📊 Dashboard Features: 
+The Race Map: A dual-axis visual tracking Win Prob % vs. Leverage Index.The Pit Window: A gauge visual indicating the "Green Zone" for an Impact Substitution.Matchup Matrix: A heat map of RCB’s 2026 squad vs. the specific bowling archetypes of the 2026 opposition (e.g., Left-arm Wrist Spin).
